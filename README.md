@@ -1,3 +1,10 @@
+Base was from A3
+
+Modified for lab exercise 8 submission.
+
+all the text below is a copy from A3s README file.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Using Assignment 1 / miderm quiz as a base.
 
 Designed the platformer level to be a beginner type stage. The enmies arent meant to kill the player but just act as a small obstacle to get in the player's way. They are there to teachthe player that they reset their jump state, so that you can use them to jump off of them to reach higher heights.
